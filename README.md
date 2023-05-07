@@ -8,7 +8,7 @@
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/arianne-prado/">
-<strong>Visit my linkedin </strong>
+<strong>visit my linkedin </strong>
 <br />
 <br />
 <br />
