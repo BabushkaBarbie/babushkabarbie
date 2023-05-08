@@ -22,7 +22,7 @@
 </td>
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=6Mj776YiPCU&ab_channel=ParisHilton">
+<a href="https://www.youtube.com/watch?v=6Mj776YiPCU&ab_channel=ParisHilton" target="_blank">
 <strong>i luv paris hilton</strong>
 <br />
 <br />
